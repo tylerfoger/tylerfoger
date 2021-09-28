@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @tylerfoger
-- 👀 I’m interested in Javascript!
-- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on (almost) anything!
 - 📫 How to reach me - tylerfoger@gmail.com
